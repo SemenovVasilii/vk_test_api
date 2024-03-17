@@ -1,0 +1,1 @@
+export { CatfactMain } from './CatfactMain'

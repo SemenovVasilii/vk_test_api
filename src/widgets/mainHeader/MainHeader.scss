@@ -1,0 +1,14 @@
+.header {
+
+    padding: 10px 20px;
+
+    &__row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    &__task1 {
+        margin-right: 10px;
+    }
+}

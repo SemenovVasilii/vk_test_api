@@ -1,0 +1,1 @@
+export { getCatfact } from './CatfactQuery'

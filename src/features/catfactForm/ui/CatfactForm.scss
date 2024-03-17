@@ -1,0 +1,23 @@
+.catfactform {
+
+    &__row {
+        height: 80vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    &__button {
+        padding: 10px;
+        margin-left: 50px;
+    }
+
+}
+
+.data__textarea {
+    height: 20vh;
+    width: 30vw;
+    font-size: 15px;
+    overflow: hidden;
+}

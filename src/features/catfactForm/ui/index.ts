@@ -1,0 +1,1 @@
+export { CatfactForm } from './CatfactForm'

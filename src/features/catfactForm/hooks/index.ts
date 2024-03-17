@@ -1,0 +1,1 @@
+export { useCatfactQuery } from './useCatfactQuery'
